@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  gap: 8px;
+}
+.button {
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0);
+  height: 32px;
+  width: 60px;
+  border-radius: 16px;
+}
